@@ -7,17 +7,17 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `Hello Friend`,
-    description: `A simple starter for Gatsby. That's it.`,
+    title: `Sanford Trail Cam`,
+    description: `Clips from trailcams in the woods of Sanford, Maine`,
     copyrights: '',
-    author: `@panr`,
+    author: `@scubdub`,
     logo: {
       src: '',
       alt: '',
     },
-    logoText: 'hello friend',
+    logoText: 'Sanford Trail Cam',
     defaultTheme: 'dark',
-    postsPerPage: 5,
+    postsPerPage: 1,
     showMenuItems: 2,
     menuMoreText: 'Show more',
     mainMenu: [
@@ -114,8 +114,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-hello-friend`,
-        short_name: `hello-friend`,
+        name: `sanford-trail-cam-clips`,
+        short_name: `sanford-trail-cam`,
         start_url: `/`,
         background_color: `#292a2d`,
         theme_color: `#292a2d`,

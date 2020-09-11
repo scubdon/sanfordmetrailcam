@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: "2018-07-19"
-author: "Radek"
+author: "@scubdub"
 path: "/about"
 ---
 
