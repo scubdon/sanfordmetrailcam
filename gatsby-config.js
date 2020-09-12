@@ -26,7 +26,7 @@ module.exports = {
         path: '/about',
       },
       {
-        title: 'Showcase',
+        title: 'Clips',
         path: '/showcase',
       },
       {
