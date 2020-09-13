@@ -8,15 +8,18 @@ path: "/showcase"
 
 `youtube: ezjfc1b6SLc`
 
+### Coyote  September 4 2020   7:53 pm
+
+`youtube: D6iMS5XjuVM`
+
 #### Bobcat July 4 2020 530 am
 
 
 `youtube: 6EuxEeXrdRw`
 
-#### Bobcat 03-07-20 7:11pm
+#### Deer 06 23 20 706am
 
-
-`youtube: 8f91SwKDG20`
+`youtube: OBDVTIWPFHo`
 
 #### Bear 06-27-20 1:29am
 
@@ -32,6 +35,17 @@ path: "/showcase"
 
 
 `youtube: I6EtcFchdRA`
+
+
+### Turkey May 17 2020   5:57am
+
+`youtube: DWaLJOtQ1nc`
+
+
+### Racoons 3-10-20   8:19pm
+
+`youtube: JN70jVDk_aE`
+
 
 #### Bobcat 03-07-20 7:11pm
 
