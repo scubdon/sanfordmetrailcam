@@ -12,4 +12,4 @@ author: "Richard"
 
 These are trailcam recordings from the woods near my home in Sanford, Maine.  
 
-Click the ["clips"](https://sanfordtrailcam.com/showcase) button above to view them all
+Click the ["Clips"](https://sanfordtrailcam.com/showcase) button above to view them all

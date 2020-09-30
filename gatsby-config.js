@@ -116,7 +116,8 @@ module.exports = {
       options: {
         name: `sanford-trail-cam-clips`,
         short_name: `sanford-trail-cam`,
-        start_url: `/`,
+        basePath: `/showcase`,
+//        start_url: `/`,
         background_color: `#292a2d`,
         theme_color: `#292a2d`,
         display: `minimal-ui`,
