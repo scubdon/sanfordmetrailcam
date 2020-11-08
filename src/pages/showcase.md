@@ -1,9 +1,14 @@
 ---
 title: "Sanford Trail Cam"
 date: "2020-09-30"
-// author: "@scubdub"
+// author: " "
 path: "/showcase"
 ---
+
+### Bobcat November 4, 2020 7:43am
+
+`youtube: ww_4gFpD3Gg`
+
 
 ### Fox   September 29, 2020  10:07 PM
 
