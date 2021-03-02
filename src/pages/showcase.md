@@ -5,6 +5,15 @@ date: "2020-09-30"
 path: "/showcase"
 ---
 
+### Old clip from October 2019 - not sure what this is. it looks like a cat, or maybe a raccoon
+
+`youtube: XGJkGLo7s7U`
+
+### rabbit 02/23/21
+
+`youtube: 65qxe3I2PMg`
+
+
 ### Fox 12-02-20 5:12am
 
 `youtube: bdrYb0ftlYE`
