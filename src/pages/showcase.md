@@ -5,9 +5,15 @@ date: "2020-09-30"
 path: "/showcase"
 ---
 
+### Otters June 4, 2020
+
+`youtube: QnPihqzlFYo`
+
+
+
 ### Coyotes  -  April 3, 2021 2:01am
 
-`youtube: hxjiGeKSx7U`
+`youtube: oY_ixi-pz4c`
 
 
 
@@ -49,7 +55,7 @@ path: "/showcase"
 
 ### Fox - September 29, 2020  10:07 PM
 
-`youtube: RTQoouTVkZA`
+`youtube: SJ8yqTgqoGs`
 
 
 
@@ -70,14 +76,14 @@ path: "/showcase"
 
 #### Bobcat  July 4 2020 5:30am
 
-`youtube: 6EuxEeXrdRw`
+`youtube: B1Thtj07r8E`
 
 
 
 
 #### Deer June 23 2020 7:06am
 
-`youtube: OBDVTIWPFHo`
+`youtube: exhn8qXdaY0`
 
 
 
