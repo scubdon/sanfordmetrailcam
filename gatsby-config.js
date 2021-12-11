@@ -10,7 +10,6 @@ module.exports = {
     title: `Sanford Trail Cam`,
     description: `Clips from trailcams in the woods of Sanford, Maine`,
     copyrights: '',
-    author: `@scubdub`,
     logo: {
       src: '',
       alt: '',
@@ -28,11 +27,7 @@ module.exports = {
       {
         title: 'Clips',
         path: '/showcase',
-      },
-      {
-        title: 'Example',
-        path: '/example',
-      },
+      }
     ],
   },
   plugins: [
@@ -117,7 +112,7 @@ module.exports = {
         name: `sanford-trail-cam-clips`,
         short_name: `sanford-trail-cam`,
         basePath: `/showcase`,
-//        start_url: `/`,
+        start_url: `/showcase`,
         background_color: `#292a2d`,
         theme_color: `#292a2d`,
         display: `minimal-ui`,
