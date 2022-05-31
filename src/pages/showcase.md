@@ -1,7 +1,7 @@
 ---
 title: "Sanford Trail Cam"
 date: "2020-09-30"
-path: "/"
+path: "/showcase"
 ---
 ### Same Otter March 24, 2022
 
